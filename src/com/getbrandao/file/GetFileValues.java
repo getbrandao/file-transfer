@@ -12,6 +12,11 @@ public class GetFileValues {
 	InputStream is;
 	Properties prop = new Properties();
 	String propFileName = "config.properties";
+//	String dir;
+//	String name;
+//	String client;
+//	String server;
+//	String port;
 	
 	public Map<String,String> getPropValues() throws IOException {
 		
