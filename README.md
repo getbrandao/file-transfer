@@ -1,6 +1,6 @@
 # File Transfer
 
->That Java project execute the feautres:
+>That Java project execute the features:
 
 > 1. Get values of a properties file
 > 2. Directory monitor to operations: [ CREATE | MODIFY | DELETE ]
